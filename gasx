@@ -1,6 +1,6 @@
 rm -rf *
 
-git clone https://gitlab.com/mmzainal/gr4m
+git clone https://gitlab.com/mmzainal/gr4m.git
 cd gr4m
 
 #!/bin/sh
